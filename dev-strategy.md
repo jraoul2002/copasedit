@@ -54,7 +54,7 @@ __As a site visitor, I want to learn more about home page__
 
 ### home.md
 
-- [ ] create the file
+- [ ] create two files index.html and index.css
 - [ ] add their name as the main title
 - [ ] write a paragraph introduction
 
@@ -114,7 +114,7 @@ __As a site visitor, I want to learn more about the about page__
 
 ### about.md
 
-- [ ] create the file
+- [ ] create two file about.html and about.css
 - [ ] add their name as the main title
 * Create a branch by the name about
 
